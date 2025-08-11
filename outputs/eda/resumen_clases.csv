@@ -1,0 +1,4 @@
+dataset,label,n
+COVID19-Radiography,COVID,42330
+ChestXray-Pneumonia,NORMAL,4749
+ChestXray-Pneumonia,PNEUMONIA,12819
